@@ -9,7 +9,7 @@
 </p>
 
 ### `<ul>`, `<li>`
-
+s
 **Remember to use `httpserver` to live test your webpage**
 
 In our `real-estate-listings.html` page, under the `<h4>2014</h4>` tag we added
