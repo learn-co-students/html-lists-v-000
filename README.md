@@ -1,5 +1,7 @@
 # HTML Lists
 
+lab completed in own project
+
 ## Objectives
 
   - Learn the basics of HTML list elements
