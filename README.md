@@ -1,4 +1,4 @@
-# HTML Lists
+# How to display Lists with HTML
 
 ## Objectives
 
