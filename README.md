@@ -67,6 +67,6 @@ will display a numbered list instead of bullets:
 ```
 
 Add the above to your Listings page, save and check out your live page to see
-the difference.
+the nice difference.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-lists' title='HTML Lists'>HTML Lists</a> on Learn.co and start learning to code for free.</p>
